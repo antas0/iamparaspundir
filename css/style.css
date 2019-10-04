@@ -11,7 +11,6 @@ body {
     background: #ffffff url('../img/banner01.jpg') no-repeat center top;
     background-size: cover;
 	font-family: 'Open Sans', sans-serif;
-    max-height: 40px;
 }
 ol, ul {
 	list-style: none;
@@ -187,8 +186,7 @@ table {
     background-color: #24B7A4;
     border: 2px solid #24B7A4;
     color: #FFFFFF;
-    width: 150px;
-    border-radius: 30%;
+    width: 100%;
     display: block;
     word-spacing: 1px;
     outline: none;
